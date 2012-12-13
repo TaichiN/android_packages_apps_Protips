@@ -83,7 +83,7 @@
 
         <!-- Tip: The Definition of Open. -->
         <item>Definition of Open\n
-        repo init -u git://android.git.kernel.org/platform/manifest.git ; repo sync ; make. @drawable/android_open </item>
+        repo init -u git://android.git.kernel.org/platform/manifest.git ; repo sync ; make. @drawable/android_open</item>
 
         <!-- Tip: A tribute to Cyanogen's cat -->
         <item>Catroast\n
