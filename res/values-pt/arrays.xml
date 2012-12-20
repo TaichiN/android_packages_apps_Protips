@@ -18,10 +18,19 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string-array name="tips">
     <item msgid="4457112202911142877">"Veja todos os seus aplicativos."\n" Toque no ícone do Launcher. @drawable/all_apps"</item>
+    <item>"Rules"\n" The only rule of CyanogenMod: You dont ask for ETAs."</item>
+    <item>"Nightly Builds (Advanced)"\n" Available on ROM Manager. Do not submit issues on Google Code for these. @drawable/rommanager"</item>
     <item msgid="8842580895829057430">"Arraste os aplicativos até a Tela inicial."\n" Toque e segure um aplicativo no Iniciador até que ele vibre."</item>
+    <item>"Do not listen to Dr Kmobs"\n" He is not a real doctor, and that is not a thermometer. @drawable/stethoscope"</item>
     <item msgid="8903218961940756528">"Reorganize sua tela inicial."\n" Toque e segure um item; quando ele vibrar, arraste-o para onde quiser."</item>
+    <item>"Ballmer Peak"\n" Optimal coding ability takes place between a BAC of .129 and .138."</item>
     <item msgid="3123213860439458492">"Remova itens."\n" Toque e segure um item; quando ele vibrar, arraste-o para a Lixeira. @drawable/trash"</item>
+    <item>"iPhone"\n" You\'re holding it wrong. Always."</item>
     <item msgid="1000948398885889319">"Múltiplas telas iniciais."\n" Deslize para a esquerda ou para a direita para alternar entre as telas. Arraste itens para outras telas."</item>
+    <item>"Number 1 Priority"\n" Don\'t forget to keep your winzip up to date."</item>
+    <item>"Kang [kayng] - (verb)"\n" Upgraded my winzip br0. Thanks to my patient lady putting up with my devvin. @drawable/kang_truck"</item>
+    <item>"Definition of Open"\n" repo init -u git://android.git.kernel.org/platform/manifest.git ; repo sync ; make. @drawable/android_open"</item>
+    <item>"Catroast"\n" Always catproof your electronics, cats are bound to pee on them. @drawable/cat_attack"</item>
     <item msgid="424487960942281801">"Já usou este widget?"\n" Toque e mantenha o widget pressionado; quando ele vibrar, arraste-o para a Lixeira."</item>
   </string-array>
 </resources>

@@ -18,10 +18,19 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string-array name="tips">
     <item msgid="4457112202911142877">"Accede a tus aplicaciones"\n" Toca en el icono cuadrado. @drawable/all_apps"</item>
+    <item>"Rules"\n" The only rule of CyanogenMod: You dont ask for ETAs."</item>
+    <item>"Nightly Builds (Advanced)"\n" Available on ROM Manager. Do not submit issues on Google Code for these. @drawable/rommanager"</item>
     <item msgid="8842580895829057430">"Añade aplicaciones al escritorio"\n" Mantén pulsada una aplicación hasta que vibre."</item>
+    <item>"Do not listen to Dr Kmobs"\n" He is not a real doctor, and that is not a thermometer. @drawable/stethoscope"</item>
     <item msgid="8903218961940756528">"Organiza el escritorio"\n" Mantén pulsado un icono. Cuando la pantalla vibre, arrástralo a donde quieras."</item>
+    <item>"Ballmer Peak"\n" Optimal coding ability takes place between a BAC of .129 and .138."</item>
     <item msgid="3123213860439458492">"Elimina iconos"\n" Mantén pulsado un icono. Cuando la pantalla vibre, arrástralo hasta la papelera. @drawable/trash"</item>
+    <item>"iPhone"\n" You\'re holding it wrong. Always."</item>
     <item msgid="1000948398885889319">"Crea varias pantallas"\n" Desliza el dedo hacia la izquierda o derecha y arrastra iconos a otras pantallas."</item>
+    <item>"Number 1 Priority"\n" Don\'t forget to keep your winzip up to date."</item>
+    <item>"Kang [kayng] - (verb)"\n" Upgraded my winzip br0. Thanks to my patient lady putting up with my devvin. @drawable/kang_truck"</item>
+    <item>"Definition of Open"\n" repo init -u git://android.git.kernel.org/platform/manifest.git ; repo sync ; make. @drawable/android_open"</item>
+    <item>"Catroast"\n" Always catproof your electronics, cats are bound to pee on them. @drawable/cat_attack"</item>
     <item msgid="424487960942281801">"¿Quieres cerrar este widget?"\n" Manténlo pulsado. Cuando la pantalla vibre, arrástralo a la papelera."</item>
   </string-array>
 </resources>

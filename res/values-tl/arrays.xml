@@ -18,10 +18,19 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string-array name="tips">
     <item msgid="4457112202911142877">"Tingnan ang lahat ng iyong apps."\n" Galawin ang icon ng Launcher. @drawable/all_apps"</item>
+    <item>"Rules"\n" The only rule of CyanogenMod: You dont ask for ETAs."</item>
+    <item>"Nightly Builds (Advanced)"\n" Available on ROM Manager. Do not submit issues on Google Code for these. @drawable/rommanager"</item>
     <item msgid="8842580895829057430">"I-drag ang apps sa iyong Home screen."\n" Galawin at pindutin nang matagal ang app sa Launcher hanggang sa mag-vibrate ito."</item>
+    <item>"Do not listen to Dr Kmobs"\n" He is not a real doctor, and that is not a thermometer. @drawable/stethoscope"</item>
     <item msgid="8903218961940756528">"Muling isaayos ang iyong Home screen."\n" Galawin at pindutin nang matagal ang isang item at kapag nag-vibrate ito, i-drag ito kung saan mo gusto."</item>
+    <item>"Ballmer Peak"\n" Optimal coding ability takes place between a BAC of .129 and .138."</item>
     <item msgid="3123213860439458492">"Alisin ang mga item."\n" Galawin at pindutin nang matagal ang isang item at kapag nag-vibrate ito, i-drag sa icon ng basurahan. @drawable/trash"</item>
+    <item>"iPhone"\n" You\'re holding it wrong. Always."</item>
     <item msgid="1000948398885889319">"Maramihang Home screen."\n" Mag-swipe pakaliwa o pakanan upang lumipat. I-drag ang mga item sa ibang mga screen."</item>
+    <item>"Number 1 Priority"\n" Don\'t forget to keep your winzip up to date."</item>
+    <item>"Kang [kayng] - (verb)"\n" Upgraded my winzip br0. Thanks to my patient lady putting up with my devvin. @drawable/kang_truck"</item>
+    <item>"Definition of Open"\n" repo init -u git://android.git.kernel.org/platform/manifest.git ; repo sync ; make. @drawable/android_open"</item>
+    <item>"Catroast"\n" Always catproof your electronics, cats are bound to pee on them. @drawable/cat_attack"</item>
     <item msgid="424487960942281801">"Tapos na sa widget na ito?"\n" Galawin at pindutin nang matagal at kapag nag-vibrate ito, i-drag sa icon ng Basura."</item>
   </string-array>
 </resources>
